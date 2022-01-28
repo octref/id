@@ -1,0 +1,15 @@
+{
+  "name": "pine-id",
+  "private": true,
+  "version": "0.1.0",
+  "description": "p",
+  "scripts": {
+    "compile": "tsc",
+    "watch": "tsc --watch"
+  },
+  "devDependencies": {
+    "@types/dom-mediacapture-record": "^1.0.11",
+    "@types/p5": "^1.3.3",
+    "typescript": "^3.9.10"
+  }
+}

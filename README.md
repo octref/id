@@ -1,0 +1,1 @@
+![identity-horizontal](./assets/horizontal.png)

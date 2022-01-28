@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "outDir": "./dist",
+    "rootDir": "./sketch/",
+    "target": "es5",
+    "moduleResolution": "node"
+  }
+}
