@@ -1,1 +1,1 @@
-![identity-horizontal](./assets/horizontal.png)
+![identity](./assets/identity.gif)
